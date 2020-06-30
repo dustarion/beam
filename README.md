@@ -1,9 +1,9 @@
 <h1 align="center">
   <img src="Docs/icon.png" width="136" alt="icon"><br>
-  Beam for Reddit<br>
+  Beam for Saidit<br>
   <p align="center">
-    <a href="https://twitter.com/madeawkward">
-      <img src="https://img.shields.io/badge/contact-madeawkward-blue.svg?style=flat" alt="Contact">
+    <a href="https://twitter.com/daltonmeon">
+      <img src="https://img.shields.io/badge/contact-dustarion-blue.svg?style=flat" alt="Contact">
     </a>
     <a href="LICENSE.md">
       <img src="https://img.shields.io/badge/license-GPL--2.0-red.svg?style=flat" alt="License: GPL v2.0">
@@ -11,7 +11,7 @@
   </p>
 </h1>
 
-<p align="center">An open source Reddit client for iOS.</p>
+<p align="center">An open source SaidIt client for iOS.</p>
 
 <br>
 <br>
